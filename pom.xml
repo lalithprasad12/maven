@@ -4,7 +4,7 @@
   <groupId>com.lalithsystems</groupId>
   <artifactId>Feburary</artifactId>
   <packaging>jar</packaging>
-  <version>1.7-SNAPSHOT</version>
+  <version>1.7</version>
 
   <name>Feburary</name>
   <url>http://maven.apache.org</url>
@@ -15,7 +15,7 @@
 <connection>scm:git:git://github.com/lalithprasad12/maven.git</connection>
 <developerConnection>scm:git:git@github.com:lalithprasad12/maven.git</developerConnection>
 	
- <tag>HEAD</tag>
+ <tag>Feburary-1.7</tag>
 </scm>
 
 
