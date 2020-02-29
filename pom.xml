@@ -9,8 +9,8 @@
   <name>Feburary</name>
   <url>http://maven.apache.org</url>
 <scm>
-<developerConnection>scm:git:git@github.com:ExtracIT/December.git</developerConnection>
-<url>git:git:git@github.com:ExtracIT/December.git</url>
+<developerConnection>scm:git@github.com:lalithprasad12/maven.git</developerConnection>
+<url>git:git:git@github.com:lalithprasad12/maven.git</url>
   <tag>HEAD</tag>
   </scm>
 
@@ -24,14 +24,14 @@
   </dependencies>
 <distributionManagement>
  <repository>
-  <id>extrac-release</id>
-  <name>extracit-release</name>
-  <url>http://localhost:8081/repository/extracit-release/</url>
+  <id>lalith-release</id>
+  <name>lalith-release</name>
+  <url>http://localhost:8081/repository/lalith-release/</url>
  </repository>
 <snapshotRepository>
-  <id>extrac-snapshot</id>
-  <name>ExtracIT</name>
-  <url>http://localhost:8081/repository/ExtracIT/</url>
+  <id>lalith-snapshot</id>
+  <name>lalith-snapshot</name>
+  <url>http://localhost:8081/repository/lalith-snapshot/</url>
  </snapshotRepository>
 </distributionManagement>
 
