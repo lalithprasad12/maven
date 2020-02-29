@@ -8,11 +8,15 @@
 
   <name>Feburary</name>
   <url>http://maven.apache.org</url>
+
 <scm>
-<developerConnection>scm:git@github.com:lalithprasad12/maven.git</developerConnection>
-<url>git:git:git@github.com:lalithprasad12/maven.git</url>
-  <tag>HEAD</tag>
-  </scm>
+
+<url>https://github.com/lalithprasad12/maven.git</url>
+<connection>scm:git:git://github.com/lalithprasad12/maven.git</connection>
+<developerConnection>scm:git:git@github.com:lalithprasad12/maven.git</developerConnection>
+	
+ <tag>HEAD</tag>
+</scm>
 
   <dependencies>
     <dependency>
